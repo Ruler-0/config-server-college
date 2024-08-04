@@ -2,7 +2,7 @@ passout:
   batch: 2021
 
 student:
-  message: "Welcome to Student qa environment!"
+  message: "Welcome to Student Quality Assurance environment!"
   teacher:
     name: "Basha"
     education: "Degree"
