@@ -2,7 +2,7 @@ passout:
   batch: 2020
 
 student:
-  message: "Welcome to Student prod environment!"
+  message: "Welcome to Student Production environment!"
   teacher:
     name: "nazeerunisa"
     education: "BA"
