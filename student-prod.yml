@@ -8,4 +8,4 @@ student:
     education: "BA"
   contactDetails:
     email: "@gmail.com"
-    phone: (555)1234-654
+    phone: "(555)1234-654"
