@@ -2,7 +2,7 @@ passout:
   batch: 2022
 
 student:
-  message: "Welcome to Student dev environment!"
+  message: "Welcome to Student development environment!"
   teacher:
     name: "Meera"
     education: "Degree"
