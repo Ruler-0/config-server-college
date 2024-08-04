@@ -1,0 +1,11 @@
+passout:
+  batch: 2021
+
+student:
+  message: "Welcome to Student qa environment!"
+  teacher:
+    name: "Basha"
+    education: "Degree"
+  contactDetails:
+    email: "@gmail.com"
+    phone: (555)1234-654

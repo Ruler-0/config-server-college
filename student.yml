@@ -1,0 +1,11 @@
+passout:
+  batch: 2022
+
+student:
+  message: "Welcome to Student dev environment!"
+  teacher:
+    name: "Meera"
+    education: "Degree"
+  contactDetails:
+    email: "@gmail.com"
+    phone: (555)1234-654

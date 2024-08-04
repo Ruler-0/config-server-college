@@ -1,0 +1,11 @@
+passout:
+  batch: 2020
+
+student:
+  message: "Welcome to Student prod environment!"
+  teacher:
+    name: "nazeerunisa"
+    education: "BA"
+  contactDetails:
+    email: "@gmail.com"
+    phone: (555)1234-654
