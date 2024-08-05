@@ -4,7 +4,7 @@ passout:
 student:
   message: "Welcome to Student Production environment!"
   teacher:
-    name: "nazeerunisa"
+    name: "Bashu"
     education: "BA"
   contactDetails:
     email: "@gmail.com"
