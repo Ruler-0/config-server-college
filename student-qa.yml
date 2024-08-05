@@ -3,6 +3,5 @@ passout:
 
 student:
   message: "Welcome to Student Quality Assurance environment!"
-  teacher:
-    name: "ppp"
+  teacher: "pp"
   contact: "rr"
