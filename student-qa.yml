@@ -3,5 +3,9 @@ passout:
 
 student:
   message: "Welcome to Student Quality Assurance environment!"
-  teacher: "pp"
-  contact: "rr"
+  teacher:
+    name: "Nazeerunisa"
+    education: "BA"
+  contactDetails:
+    email: "@gmail.com"
+    phone: "(666)1234-654"
